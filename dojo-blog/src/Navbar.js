@@ -11,7 +11,6 @@ const Navbar = () => {
                     backgroundColor: '#f1356d',
                     borderRadius: '8px'
                 }}>New Blog</a>
-            <button onClick={console.log('refreshed navbar')}> Test</button>
             </div>
         </nav>
 

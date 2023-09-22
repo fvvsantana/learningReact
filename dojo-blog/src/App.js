@@ -1,13 +1,13 @@
 import React from 'react'
 import Navbar from './Navbar';
-import ButtonClickExample from './lessons/ButtonClickExample';
+import Home from './Home';
 
 function App() {
   return (
     <div className="App">
       <Navbar />
       <div className="content">
-        <ButtonClickExample />
+        <Home />
       </div>
     </div>
   );
