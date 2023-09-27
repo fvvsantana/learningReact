@@ -1,5 +1,4 @@
 import React from "react";
-import { useState } from "react";
 
 //const BlogList = (props) => {
 //    const blogs = props.blogs;
